@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "838065375667",
+    "firebase_url": "https://railhelper-48011.firebaseio.com",
+    "project_id": "railhelper-48011",
+    "storage_bucket": "railhelper-48011.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838065375667:android:582ae67b4fe451e6f263c6",
+        "android_client_info": {
+          "package_name": "com.example.railhelper"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "838065375667-lh2o22kqphkdogv2vgp5lr7a9pseub7n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.railhelper",
+            "certificate_hash": "70ae29baace6bf63c608215c4d2ad2ec3760bcf4"
+          }
+        },
+        {
+          "client_id": "838065375667-jvjrqp3ea7gm9unie9d5h1mtrdjjpq26.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCedEGryW_tguwrLlK0S2I23XYCv7aak_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "838065375667-jvjrqp3ea7gm9unie9d5h1mtrdjjpq26.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
